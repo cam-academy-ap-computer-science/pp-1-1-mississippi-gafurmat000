@@ -3,14 +3,52 @@
 public class mississippi11 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("M     M    IIIII     SSSSS      SSSSS     IIIII     SSSSS      SSSSS     IIIII    PPPPPP     PPPPPP     IIIII");
-		System.out.println("MM   MM      I      S     S    S     S      I      S     S    S     S      I      P     P    P     P      I");
-		System.out.println("M M M M      I      S          S            I      S          S            I      P     P    P     P      I");
-		System.out.println("M  M  M      I       SSSSS      SSSSS       I       SSSSS      SSSSS       I      PPPPPP     PPPPPP       I");
-		System.out.println("M     M      I            S          S      I            S          S      I      P          P            I");
-		System.out.println("M     M      I      S     S    S     S      I      S     S    S     S      I      P          P            I");
-		System.out.println("M     M    IIIII     SSSSS      SSSSS     IIIII     SSSSS      SSSSS     IIIII    P          P          IIIII");
+		M();
+		I();
+		S();
+		S();
+		I();
+		S();
+		S();
+		I();
+		P();
+		P();
+		I();
+		
+		public static void M() {
+		System.out.println("M     M");
+		System.out.println("MM   MM");
+		System.out.println("M M M M");
+		System.out.println("M  M  M");
+		System.out.println("M     M");
+		System.out.println("M     M");
+		System.out.println("M     M");
 	}
-
+		public static void I() {
+		System.out.println("IIIII");
+		System.out.println("  I  ");
+		System.out.println("  I  ");
+		System.out.println("  I  ");
+		System.out.println("  I  ");
+		System.out.println("  I  ");
+		System.out.println("IIIII");
+		}
+		public static void S() {
+		System.out.println(" SSSSS ");
+		System.out.println("S     S");
+		System.out.println("S      ");
+		System.out.println(" SSSSS ");
+		System.out.println("      S");
+		System.out.println("S     S");
+		System.out.println(" SSSSS ");
+	}
+	public static void P() {
+		System.out.println("PPPPPP ");
+		System.out.println("P     P");
+		System.out.println("P     P");
+		System.out.println("PPPPPP ");
+		System.out.println("P      ");
+		System.out.println("P      ");
+		System.out.println("P      ");
+	}
 }
