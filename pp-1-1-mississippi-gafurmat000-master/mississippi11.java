@@ -1,5 +1,14 @@
 
+/* Grading Notes
+20/25 points
+-5 points as this code will not run as it currently is written. Missing a closing bracket for the main method.
 
+Notes: class names should start with an upper case letter and match the name of the file name, 
+for class Mississipp with file name Mississippi.java.
+Method names should be lower camel case (starting with a lower-case letter). 
+I did not deduct points for the stylistic variations in this project.
+-Sarah Gilliam
+*/
 public class mississippi11 {
 
 	public static void main(String[] args) {
